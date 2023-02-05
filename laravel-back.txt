@@ -1,0 +1,14 @@
+1)composer creat-project laravel/laravel backend-app
+2)creation de database in xamp
+3)prevliages fil xamp ta3tih lacces
+4)php artisan make:model product -mcr :yasna3li les table fl xapm
+5)migration file a5er dossier 
+6)php artisan migrate
+6)1)ken nsit 7aja n7b nzidha na3mal  php artisan migrate:fresh --seed
+7)model=>product 
+8)=>http=>contller=>productCojtroller
+9)roote api use el productContoler
+10) php artisan storag:link
+11)php artisan serve
+
+12)ken tableau a5er  php artisan migrate:refresh --path=database/migrations/2023_01_22_021943
